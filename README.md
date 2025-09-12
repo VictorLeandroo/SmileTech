@@ -11,7 +11,6 @@ SmileTech é um site moderno para clínica odontológica, com layout responsivo,
 - Atendimento humanizado  
 - Agendar consulta online  
 - Mostrar serviços, equipe e valores  
-- Blog / notícias sobre saúde bucal  
 - Contato direto com clínica via formulário ou WhatsApp  
 
 ---
@@ -22,9 +21,7 @@ SmileTech é um site moderno para clínica odontológica, com layout responsivo,
 - Seções “Sobre”, “Serviços”, “Equipe”, “Contato”  
 - Horário de funcionamento + casos de emergência  
 - Planos / Preços com diferentes pacotes para tratamentos odontológicos  
-- Blog com posts e artigos recentes  
 - Formulário de agendamento de consulta  
-- Newsletter / assinaturas (captação de e-mail)  
 - Informações de contato: endereço, telefone, e-mail  
 
 ---
